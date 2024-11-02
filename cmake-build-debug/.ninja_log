@@ -1,0 +1,6 @@
+# ninja log v6
+1	766	1730519571510872882	CMakeFiles/DbInventory.dir/main.cpp.o	43a700a4b43c7ff0
+1	771	1730519571511206522	CMakeFiles/DbInventory.dir/db_config/DatabaseConfig.cpp.o	fdd7e6b17731ca59
+771	836	1730519572281057732	DbInventory	1c5aed6d4b9bb694
+8	709	1730519638759134964	CMakeFiles/DbInventory.dir/main.cpp.o	43a700a4b43c7ff0
+709	770	1730519639459876642	DbInventory	1c5aed6d4b9bb694
